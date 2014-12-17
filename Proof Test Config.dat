@@ -1,0 +1,9 @@
+
+[DAQ Cluster]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+PSI Channel=Dev1/ai9
+TC Channel=Dev1/ai16
+PSI Offset=0.555
+PSI Scale=6000
+TC Offset=1.028
+TC Scale=144
